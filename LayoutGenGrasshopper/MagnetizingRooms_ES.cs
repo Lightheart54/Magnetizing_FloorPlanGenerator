@@ -1424,7 +1424,7 @@ namespace Magnetizing_FPG
             get
             {
                 //You can add image files to your project resources and access them like this:
-                return Properties.Resources.MagnetizingRoomsIcon;
+                return LayoutGenGrasshopper.Properties.Resources.MagnetizingRoomsIcon;
             }
         }
 

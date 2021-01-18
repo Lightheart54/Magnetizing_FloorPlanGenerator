@@ -1,18 +1,16 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-using Rhino.PlugIns;
-
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FloorPlan_Generator_1")]
+[assembly: AssemblyTitle("LayoutGenGrasshopper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FloorPlan_Generator_1")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("LayoutGenGrasshopper")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,7 +20,7 @@ using Rhino.PlugIns;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f5f278ea-405f-40d9-9a0d-00c1854f8d43")] // This will also be the Guid of the Rhino plug-in
+[assembly: Guid("c34db3fb-2a4f-4d8f-8467-9d9ef6da15e6")]
 
 // Version information for an assembly consists of the following four values:
 //

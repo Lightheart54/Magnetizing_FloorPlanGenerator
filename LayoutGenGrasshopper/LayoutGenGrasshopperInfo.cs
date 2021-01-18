@@ -1,16 +1,16 @@
-﻿using System;
+﻿using Grasshopper.Kernel;
+using System;
 using System.Drawing;
-using Grasshopper.Kernel;
 
-namespace FloorPlan_Generator
+namespace LayoutGenGrasshopper
 {
-    public class FloorPlan_Generator_1Info : GH_AssemblyInfo
+    public class LayoutGenGrasshopperInfo : GH_AssemblyInfo
     {
         public override string Name
         {
             get
             {
-                return "FloorPlanGenerator";
+                return "LayoutGenGrasshopper";
             }
         }
         public override Bitmap Icon

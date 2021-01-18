@@ -4,13 +4,11 @@ using Grasshopper.Kernel;
 using Grasshopper.Kernel.Types;
 using Rhino.Geometry;
 using System.Linq;
-using Rhino;
 using ClipperLib;
 
 using Path = System.Collections.Generic.List<ClipperLib.IntPoint>;
 using Paths = System.Collections.Generic.List<System.Collections.Generic.List<ClipperLib.IntPoint>>;
 using System.Windows.Forms;
-using Magnetizing_FPG.Properties;
 
 namespace Magnetizing_FPG
 {
@@ -939,7 +937,7 @@ namespace Magnetizing_FPG
         {
             get
             {
-                return Properties.Resources.SpringSystem_ESIcon;
+                return LayoutGenGrasshopper.Properties.Resources.SpringSystem_ESIcon;
             }
         }
 
