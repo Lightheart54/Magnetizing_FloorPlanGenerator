@@ -4,3 +4,9 @@ D:\Dropbox\Projects\20180907_DIPLOMA\Studies\Study 2 (FloorPlan_Generator_GH)\Fl
 D:\Dropbox\Projects\20180907_DIPLOMA\Studies\Study 2 (FloorPlan_Generator_GH)\FloorPlan_Generator_1\FloorPlan_Generator_1\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
 D:\Dropbox\Projects\20180907_DIPLOMA\Studies\Study 2 (FloorPlan_Generator_GH)\FloorPlan_Generator_1\FloorPlan_Generator_1\clipper_library\obj\Debug\clipper_library.dll
 D:\Dropbox\Projects\20180907_DIPLOMA\Studies\Study 2 (FloorPlan_Generator_GH)\FloorPlan_Generator_1\FloorPlan_Generator_1\clipper_library\obj\Debug\clipper_library.pdb
+C:\Repos\Magnetizing_FloorPlanGenerator\bin\clipper_library.dll
+C:\Repos\Magnetizing_FloorPlanGenerator\bin\clipper_library.pdb
+C:\Repos\Magnetizing_FloorPlanGenerator\clipper_library\obj\Debug\clipper_library.csprojAssemblyReference.cache
+C:\Repos\Magnetizing_FloorPlanGenerator\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Repos\Magnetizing_FloorPlanGenerator\clipper_library\obj\Debug\clipper_library.dll
+C:\Repos\Magnetizing_FloorPlanGenerator\clipper_library\obj\Debug\clipper_library.pdb

@@ -939,7 +939,7 @@ namespace Magnetizing_FPG
         {
             get
             {
-                return Resources.SpringSystem_ESIcon;
+                return Properties.Resources.SpringSystem_ESIcon;
             }
         }
 
